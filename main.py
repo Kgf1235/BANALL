@@ -34,16 +34,16 @@ sree = TelegramClient(
     api_hash=API_HASH
 ).start(bot_token=BOT_TOKEN)
 
-Owner = "ItsmeHyper13"
-repo = "https://github.com/ItsmeHyper13/BanallBot"
+Owner = "DX_LUCKY"
+repo = "https://github.com/Kgf1235/BANALL"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/SilentVerse"), Button.url("••ʀєρο••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/DX_LUCKY"), Button.url("••ʀєρο••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
             event.chat.id,
-            file="https://telegra.ph/file/1367b1dd68f851e36370d.jpg",
+            file="https://te.legra.ph/file/e116b3cd24f0b0aaea7c3.jpg",
             caption=startxt.format(
                 event.sender.first_name,
                 event.sender.id,
@@ -57,7 +57,7 @@ async def start(event):
     if event.sender.id not in OP:
         await sree.send_file(
             event.chat.id,
-            file="https://telegra.ph/file/1367b1dd68f851e36370d.jpg",
+            file="https://te.legra.ph/file/e116b3cd24f0b0aaea7c3.jpg",
             caption=startxt2.format(
                 event.sender.first_name,
                 event.sender.id,
@@ -72,19 +72,19 @@ async def start(event):
 
 @sree.on(events.NewMessage(pattern="^/help"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/SilentVerse"), Button.url("••ʀєρο••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/DX_LUCKY"), Button.url("••ʀєρο••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
             event.chat.id,
-            file="https://telegra.ph/file/1367b1dd68f851e36370d.jpg",
+            file="https://te.legra.ph/file/e116b3cd24f0b0aaea7c3.jpg",
             caption=hlptxt.format(event.sender.first_name, event.sender.id),
             link_preview=False,
             buttons=buttns
         )
     if event.sender.id not in OP:
         await event.reply(
-            "Huh Nigga!\nThis is not for you lol 😑\n\nMake your own bot from this [Repository⚡](https://github.com/ItsmeHyper13/BanallBot)",
+            "Huh Nigga!\nThis is not for you lol 😑\n\nMake your own bot from this [Repository⚡](https://github.com/Kgf1235/BANALL)",
             link_preview=False,
         )       
 
