@@ -1,6 +1,6 @@
 <h3 align="center"><strong><code>BanallBot 🚀</code></strong></h3>
 
-<img src="https://telegra.ph/file/40d85b1acb12e9396a6bf.jpg" alt="Unable To serve You">
+<img src="https://te.legra.ph/file/e116b3cd24f0b0aaea7c3.jpg" alt="Unable To serve You">
 <blockquote>
 <strong><i>❍&nbsp;Telegram banall bot! Use it on your own risk we are not responsible for any kind of problems 💫💝!</i></strong><br><br>
 </blockquote>
@@ -32,9 +32,9 @@
 <h3><strong><i>Forks nd Stars🍽️</i></strong></h3>
 <pre>
 <p align="center">
-<img src="https://img.shields.io/github/license/ItsmeHyper13/BanallBot.svg"> <img src="https://img.shields.io/github/forks/ItsmeHyper13/BanallBot.svg"> <img src="https://img.shields.io/github/stars/ItsmeHyper13/BanallBot.svg">
-<a href="https://github.com/ItsmeHyper13/BanallBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeHyper13&repo=BanallBot&theme=blue-green"></a>
-<a href="https://github.com/ItsmeHyper13/BanallBot/fork"><img src="https://img.shields.io/badge/Fork%20Banall%20Bot-black?style=for-the-badge&logo=github"></a>
+<img src="https://img.shields.io/github/license/Kgf1235/BANALL.svg"> <img src="https://img.shields.io/github/forks/ItsmeHyper13/BanallBot.svg"> <img src="https://img.shields.io/github/stars/ItsmeHyper13/BanallBot.svg">
+<a href="https://github.com/Kgf1235/BANALL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeHyper13&repo=BanallBot&theme=blue-green"></a>
+<a href="https://github.com/Kgf1235/BANALL/fork"><img src="https://img.shields.io/badge/Fork%20Banall%20Bot-black?style=for-the-badge&logo=github"></a>
 </P>
 </pre>
 </p>
